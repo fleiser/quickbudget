@@ -1,29 +1,19 @@
-# README #
+# QuickBudget #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Quickbudget is a personal budgeting software. It allows users to keep track of their incomes and expaneses. It supports multiple currencies and accounts. Your budgets are synchronized using google drive
 
-### What is this repository for? ###
+## Select budget ##
+![Budgets.png](https://bitbucket.org/repo/5ryxBj/images/3083478175-Budgets.png)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Budget ##
+![](https://bitbucket.org/repo/5ryxBj/images/1336198900-Intro.png) 
 
-### How do I get set up? ###
+## Add transaction ##
+![Your title here...](https://bitbucket.org/repo/5ryxBj/images/838164951-Transaction.png) 
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+## Transactions ##
+![Transactions.png](https://bitbucket.org/repo/5ryxBj/images/3290155685-Transactions.png)
+## Categories ##
+![Categories.png](https://bitbucket.org/repo/5ryxBj/images/4200570455-Categories.png)
+## Accounts ##
+![Accounts.png](https://bitbucket.org/repo/5ryxBj/images/533540771-Accounts.png)
