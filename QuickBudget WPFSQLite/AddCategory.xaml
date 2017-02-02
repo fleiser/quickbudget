@@ -1,0 +1,24 @@
+﻿<controls:MetroWindow x:Class="QuickBudget_WPFSQLite.AddCategory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuickBudget_WPFSQLite"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+           FontFamily="Segoe UI Light"
+        Title="QuickBudget" Height="165.772" Width="450" ShowMinButton="False" ShowMaxRestoreButton="False" WindowStartupLocation="CenterOwner" Background="White" WindowTitleBrush="#2b616d" BorderBrush="Black" OpacityMask="Black"  TitleForeground="White" NonActiveWindowTitleBrush="#2b616d" NonActiveGlowBrush="Black" NonActiveBorderBrush="Black" OverrideDefaultWindowCommandsBrush="White" Foreground="Black" >
+    <Grid>
+        <Label x:Name="LabelName" Content="Category Name" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="26" Width="119"/>
+        <Label x:Name="LabelCurrency" Content="Category currency" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Height="26" Width="119"/>
+        <Label x:Name="LabelInfo" Content="Category information" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Height="26" Width="119"/>
+        <Button x:Name="ButtonAdd" Content="Add" IsEnabled="False" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top" Width="75" Click="buttonAdd_Click"/>
+        <Button x:Name="ButtonCancel" Content="Cancel" HorizontalAlignment="Left" Margin="357,105,0,0" VerticalAlignment="Top" Width="75" Click="ButtonCancel_Click"/>
+        <TextBox x:Name="TextBoxName" MaxLength="30" HorizontalAlignment="Left" Height="23" Margin="134,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298" TextChanged="TextBoxName_TextChanged"/>
+        <TextBox x:Name="TextBoxInfo" MaxLength="50" HorizontalAlignment="Left" Height="23" Margin="134,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298"/>
+        <ComboBox x:Name="ComboBoxCurrency" Text="{Binding Display}"  DisplayMemberPath="Display"  SelectedValuePath="Display" 
+            SelectedValue="{Binding Display}"  HorizontalAlignment="Left" Margin="134,76,0,0" VerticalAlignment="Top" Width="298" SelectionChanged="ComboBoxCurrency_SelectionChanged"/>
+
+    </Grid>
+</controls:MetroWindow>
+

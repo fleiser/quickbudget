@@ -1,0 +1,84 @@
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\QuickBudget WPFSQLite.exe.config
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\client_secret.json
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\QuickBudget WPFSQLite.exe
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\QuickBudget WPFSQLite.pdb
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\BouncyCastle.Crypto.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\De.TorstenMandelkow.MetroChart.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\EntityFramework.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\EntityFramework.SqlServer.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Auth.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Auth.PlatformServices.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Core.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Drive.v3.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.PlatformServices.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\log4net.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\MahApps.Metro.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Microsoft.Threading.Tasks.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\System.Data.SQLite.EF6.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\System.Data.SQLite.Linq.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\System.Net.Http.Extensions.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\System.Net.Http.Primitives.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\System.Windows.Interactivity.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Zlib.Portable.dll
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\BouncyCastle.Crypto.pdb
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\EntityFramework.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.pdb
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Auth.pdb
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Auth.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Auth.PlatformServices.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Core.pdb
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Core.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Drive.v3.pdb
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.Drive.v3.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.PlatformServices.pdb
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Google.Apis.PlatformServices.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\log4net.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\MahApps.Metro.pdb
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\MahApps.Metro.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Microsoft.Threading.Tasks.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\System.Data.SQLite.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\System.Net.Http.Extensions.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\System.Net.Http.Primitives.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\bin\Release\Zlib.Portable.xml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\AddAccount.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\AddCategory.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\AddTransaction.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\ChooseBudget.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\ManageMasterCategory.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\NewBudget.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\Settings.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\Transfer.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\YesNo.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\YesNoReCategorize.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\QuickBudget WPFSQLite_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\QuickBudget WPFSQLite_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\App.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\AddAccount.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\AddCategory.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\AddTransaction.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\ChooseBudget.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\ManageMasterCategory.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\NewBudget.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\Settings.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\Transfer.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\YesNo.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\YesNoReCategorize.baml
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\QuickBudget WPFSQLite.g.resources
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\QuickBudget_WPFSQLite.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\QuickBudget WPFSQLite.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\QuickBudget WPFSQLite.exe
+D:\Documents\Visual Studio 2015\Projects\SQLite QuickBudget\QuickBudget WPFSQLite\obj\Release\QuickBudget WPFSQLite.pdb

@@ -1,0 +1,72 @@
+﻿<controls:MetroWindow x:Class="QuickBudget_WPFSQLite.ManageMasterCategory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuickBudget_WPFSQLite"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        FontFamily="Segoe UI Light"
+        Title="Manage Categories" Height="300" Width="500"
+                      ShowMinButton="False"
+                      ShowMaxRestoreButton="False"
+                      WindowStartupLocation="CenterOwner"
+                      Background="White" 
+                      WindowTitleBrush="#2b616d" 
+                      BorderBrush="Black" 
+                      OpacityMask="Black" 
+                      TitleForeground="White"
+                      NonActiveWindowTitleBrush="#2b616d" 
+                      NonActiveGlowBrush="Black"
+                      NonActiveBorderBrush="Black" 
+                      ShowInTaskbar="False" 
+                      OverrideDefaultWindowCommandsBrush="White" 
+                      Foreground="Black">
+    <Grid>
+        <Button x:Name="ButtonConfirm" Content="Confirm" HorizontalAlignment="Left" Margin="10,239,0,0" VerticalAlignment="Top" Width="75" Click="ButtonConfirm_OnClick" RenderTransformOrigin="0.225,0.729"/>
+        <Button x:Name="ButtonCancel" Content="Cancel" HorizontalAlignment="Left" Margin="417,239,0,0" VerticalAlignment="Top" Width="75" Click="ButtonCancel_OnClick"/>
+        <Button x:Name="ButtonAdd" Content="Confirm" IsEnabled="False" HorizontalAlignment="Left" Margin="417,7,0,0" VerticalAlignment="Top" Width="75" Click="ButtonAdd_OnClick" RenderTransformOrigin="0.225,0.729" Height="23"/>
+        <TextBox x:Name="textBoxAdd" HorizontalAlignment="Left" Height="23" Margin="10,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="TextBoxAdd_OnTextChanged"  Width="402"/>
+        <DataGrid x:Name="DataGridCategories" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Height="199" Width="482"  CanUserDeleteRows="False" VerticalContentAlignment="Center" HorizontalScrollBarVisibility="Disabled" RowHeaderWidth="0"  RowHeight="25" GridLinesVisibility="None" Background="{x:Null}" AutoGenerateColumns="False">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type TextBox}">
+                    <Setter Property="MaxLength" Value="255"></Setter>
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="BorderThickness" Value="0,0,0,0"/>
+                    <Setter Property="VerticalAlignment" Value="Stretch"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+                </Style>
+                <Style TargetType="{x:Type ComboBox}">
+                    <Setter Property="Background" Value="Green"/>
+                </Style>
+                <Style TargetType="{x:Type CheckBox}">
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Header="Name" Width="SizeToCells">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="Auto" Width="100">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBox Text="{Binding Name, Mode=OneWay}" TextAlignment="Left" LostFocus="UIElement_OnLostFocus" />
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Button_Click" Tag="{Binding Id}">Remove</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</controls:MetroWindow>
+
